@@ -27,16 +27,17 @@ Learners will be able to:
 
 ## Lesson Plan
 
-| Duration | What                    | How or Why                                                          |
-| -------- | ----------------------- | ------------------------------------------------------------------- |
-| - 5mins  | Start zoom session      | So that learners can join early and start class on time.            |
-| 20 mins  | Activity                | Recap on self-study and prework materials.                          |
-| 40 mins  | Code-along              | Introduction to Pandas series and dataframes.                       |
+| Duration | What                    | How or Why                                                                              |
+| -------- | ----------------------- | --------------------------------------------------------------------------------------- |
+| - 5mins  | Start zoom session      | So that learners can join early and start class on time.                                |
+| 30 mins  | Activity                | Recap on self-study and prework materials.                                              |
+| 30 mins  | Code-along              | Summarise data using descriptive statistics.                                            |
 |          | **1 HR MARK**           |
-| 30 mins  | Code-along              | Introduction to Pandas index and reindexing.                        |
+| 30 mins  | Code-along              | Handle missing data, duplicates and outliers. Perform data cleaning and transformation. |
 | 10 mins  | Break                   |
-| 20 mins  | Code-along              | Apply selection and filtering in Pandas.                            |
+| 20 mins  | Code-along              | Manipulate strings and categorical data.                                                |
 |          | **2 HR MARK**           |
-| 50 mins  | Code-along              | Apply function and mapping in Pandas. Sort and rank data in Pandas. |
-| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                      |
+| 20 mins  | Code-along              | Manipulate strings and categorical data.                                                |
+| 30 mins  | Code-along              | Handle date and time data.                                                              |
+| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                                          |
 |          | **END CLASS 3 HR MARK** |
