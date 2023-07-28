@@ -4,7 +4,7 @@
 
 ### Preparation
 
-Ensure you have a basic understanding of descriptive statistics, regex and datetime in Python as listed in [reference](./reference.md).
+Ensure you have a basic understanding of descriptive statistics and regex as listed in [studies](./studies.md).
 
 We will be using the `pds` environment for this lesson.
 
@@ -12,7 +12,7 @@ We will be using the `pds` environment for this lesson.
 
 This lesson covers the basics of Exploratory Data Analysis (EDA) and how to use Pandas to perform data cleaning and transformation.
 
-You will learn how to summarise data using descriptive statistics, handle missing data, duplicates and outliers, perform data cleaning and transformation, manipulate strings and categorical data, and handle date and time data.
+You will learn how to summarize data using descriptive statistics, handle missing data, duplicates and outliers, perform data cleaning and transformation, manipulate strings and categorical data, and read (write) data from (to) files and databases.
 
 ---
 

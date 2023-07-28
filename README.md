@@ -1,4 +1,4 @@
-# 1.7 EDA Basic
+# 1.8 EDA Basic
 
 ## Dependencies
 
@@ -23,7 +23,7 @@ Learners will be able to:
 - Handle missing data, duplicates and outliers
 - Perform data cleaning and transformation
 - Manipulate strings and categorical data
-- Handle date and time data
+- Read (write) data from (to) files and databases
 
 ## Lesson Plan
 
@@ -33,11 +33,11 @@ Learners will be able to:
 | 30 mins  | Activity                | Recap on self-study and prework materials.                                              |
 | 30 mins  | Code-along              | Summarise data using descriptive statistics.                                            |
 |          | **1 HR MARK**           |
-| 30 mins  | Code-along              | Handle missing data, duplicates and outliers. Perform data cleaning and transformation. |
+| 40 mins  | Code-along              | Handle missing data, duplicates and outliers. Perform data cleaning and transformation. |
 | 10 mins  | Break                   |
-| 20 mins  | Code-along              | Manipulate strings and categorical data.                                                |
+| 10 mins  | Code-along              | Manipulate strings and categorical data.                                                |
 |          | **2 HR MARK**           |
 | 20 mins  | Code-along              | Manipulate strings and categorical data.                                                |
-| 30 mins  | Code-along              | Handle date and time data.                                                              |
+| 30 mins  | Code-along              | Read/write data from/to files and databases.                                            |
 | 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                                          |
 |          | **END CLASS 3 HR MARK** |
