@@ -4,7 +4,7 @@
 
 ### Preparation
 
-Ensure you have a basic understanding of descriptive statistics and regex as listed in [studies](./studies.md).
+Ensure you have a basic understanding of statistics and regex as listed in [studies](./studies.md).
 
 We will be using the `pds` environment for this lesson.
 
