@@ -1,0 +1,18 @@
+name: pds_latest
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - notebook
+  - openpyxl
+  - pandas
+  - python
+  - seaborn
+  - sqlalchemy
+  - xlrd
+  - jupyter_server
+  - jupyter_core
+  - scikit-learn
+  - pip:
+      - duckdb
+      - duckdb-engine
